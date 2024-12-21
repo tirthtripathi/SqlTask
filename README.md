@@ -1,2 +1,2 @@
 # SqlTask
-Sql Task given from company 
+Sql Homework Task 
